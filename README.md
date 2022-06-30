@@ -1,2 +1,2 @@
-# Python_Data_Structures
-Data Structures using Python
+# Python Data Structures and Algorithms
+Data Structures & Algorithms using Python
